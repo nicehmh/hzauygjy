@@ -1,0 +1,20 @@
+[ 2016-01-26T12:27:42+08:00 ] 127.0.0.1 /kaohe_hzau/index.php/admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.167593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017094s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000402s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.064371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.064600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.047626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.048054s ]
+

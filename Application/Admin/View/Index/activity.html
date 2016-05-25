@@ -1,0 +1,55 @@
+<include file="./Application/Admin/View/Public/index.html" />
+<script type="text/javascript">
+$(document).ready(function() 
+    	{ 
+      	  $("#dh").html("阳光超市"); 
+   	    } 
+	);
+</script>
+<section id="main" class="column">
+		
+	
+
+	
+		
+		<article class="module width_full">
+		<form action="__URL__/activity_record" enctype="multipart/form-data" method="post" id="newform">
+			<header><h3>特色活动</h3></header>
+			
+				<div class="module_content">
+			 
+						
+						<fieldset>
+							<label>具体内容</label><br/>
+							  
+							 <script id="container" name="con" type="text/plain" style="height:250px;width:100%;float:left;">
+                                 {$list}
+                             </script>
+                             <!-- 配置文件 -->
+                             <script type="text/javascript" src="__PUBLIC__/Ueditor/ueditor.config.js"></script>
+                             <!-- 编辑器源码文件 -->
+                             <script type="text/javascript" src="__PUBLIC__/Ueditor/ueditor.all.js"></script>
+                             <!-- 实例化编辑器 -->
+                             <script type="text/javascript">
+                                 var ue = UE.getEditor('container');
+                             </script>
+						</fieldset>
+						
+			    
+				</div>
+			<footer>
+				<div class="submit_link">
+					<input type="submit" value="发表" class="alt_btn">
+					<input type="reset" value="清空">
+				</div>
+			</footer>
+		  </form>
+		</article><!-- end of post new article -->
+	
+		
+		<div class="spacer"></div>
+	</section>
+	
+</body>
+
+</html>

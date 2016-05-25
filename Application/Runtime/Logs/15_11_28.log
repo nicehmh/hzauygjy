@@ -1,0 +1,20 @@
+[ 2015-11-28T20:35:22+08:00 ] 127.0.0.1 /Admin/index.php/Admin/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026149s ]
+
+[ 2015-11-28T20:35:27+08:00 ] 127.0.0.1 /Admin/index.php/Admin/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+
+[ 2015-11-28T20:46:09+08:00 ] 127.0.0.1 /Admin/index.php/Admin/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+
+[ 2015-11-28T20:46:18+08:00 ] 127.0.0.1 /Admin/index.php/Admin/Picture
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+

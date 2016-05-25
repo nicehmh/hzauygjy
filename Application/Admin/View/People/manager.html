@@ -1,0 +1,71 @@
+<include file="./Application/Admin/View/Public/index.html" />
+<script type="text/javascript">
+$(document).ready(function() 
+    	{ 
+      	  $("#dh").html("团队成员"); 
+   	    } 
+	);
+   function f2(id){
+       window.location.href="__URL__/updatepeople?id="+id;
+   }
+	 function delete_link(id){
+	    var r=confirm("是否删除");
+        if (r==true) {
+               window.location.href="__URL__/delete_link?id="+id;
+        }
+     }
+</script>
+<section id="main" class="column">
+	
+		
+
+	
+		
+		<article class="module width_full">
+		
+			<header><h3>管理成员</h3></header>
+			
+					<div class="module_content">
+			          <div class="view_content" style="text-align:center;">
+					   <table class="table table-bordered">
+                             <thead>
+                               <tr >
+                                <th style="text-align:center;">姓名</th>
+								<th style="text-align:center;">曾任职务</th>
+                                <th style="text-align:center;">联系电话</th>
+								<th style="text-align:center;">头像</th>
+								<th style="text-align:center;">编辑</th>
+                               </tr>
+                             </thead>
+                             <tbody>
+							 <volist name="list" id="vo">
+                               <tr>
+                                <td>{$vo.name}</td>
+								<td>{$vo.job}</td>
+								<td>{$vo.tel}</td>
+								<td><a href="__PUBLIC__/upload/{$vo.img}" target="_blank">查看</a></td>
+                                <td>
+								  <input type="button" value="修改" class="btn btn-xs" style="background-color:#B5E5EF;" onclick="f2({$vo.eid});">
+								  <input type="button" value="删除" class="btn btn-xs" onclick="delete_link({$vo.eid})">
+								</td>
+                               </tr>
+							 </volist>
+                             </tbody>
+                       </table>
+
+					</div>
+		            
+				    </div>
+			<footer>
+				
+			</footer>
+		 
+		</article><!-- end of post new article -->
+	
+		
+		<div class="spacer"></div>
+	</section>
+	
+</body>
+
+</html>

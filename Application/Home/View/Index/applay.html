@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>阳光家园</title>
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/header.css">
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/applay.css">
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/style.css">
+</head>
+<body>
+	<!--头部-->
+	<include file="./Application/Home/View/Public/header.html" />
+	<div id="main">
+	<div class="nav"><p>首页>>在线报名</p></div>
+		<div class="content">
+			<form action="__URL__/record" id="form1" name="form1" method="post" enctype="multipart/form-data">
+				 
+				  <table border="1" cellspacing="0" border-color="#666">
+				   <h3 style="text-align:center;margin-bottom:5px;">志愿者申请报名表</h3>
+					<tr>
+						<td>姓名</td><td><input type="text" name=""></td>
+						<td>性别</td><td>男 <input type="radio" name="sex" value="男">　女 <input type="radio" name="sex" value="女"></td>
+						<td rowspan="3" class="photo">
+							照片
+							<div id="preview">
+				   				 <img id="imghead" border=0 src="__PUBLIC__/Front/images/logo2.png" width="90" height="90" />
+							</div>
+							<input type="hidden" name="" value="">
+							<input type="file" onchange="previewImage(this)" class="file"  name="filename" id="img"/>
+						</td>
+					</tr>
+					<tr>
+						<td>出生年月</td><td><input type="text" name="birth"></td>
+						<td>工作国家或地区</td><td><input type="text" name="area"></td>
+					</tr>
+					<tr>
+						<td>证件名称</td>
+						<td>
+							<select name="card" id="card">
+								<option value=""></option>
+								<option value="身份证">身份证　　　　　 　</option>
+								<option value="护照">护照　　　　　 </option>
+								<option value="其他">其他　　　　　</option>
+							</select>
+						</td>
+						<td>证件号码</td><td><input type="text" name="cardid"></td>
+					</tr>
+					<tr>
+						<td>E-mail</td><td><input type="text" name="email"></td>
+						<td>职务</td><td colspan="2"><input type="text" name="job"style="width:400px;"></td>
+						
+					</tr>
+					<tr>
+						<td>电话</td><td colspan="2"><input type="text" name="tel" style="float:left;width:300px;"></td>
+						
+						<td>专业领域</td>
+						<td>
+						
+						</td>
+					</tr>
+					<tr>
+						<td>通讯地址</td><td colspan="6"><input type="text" name="address" style="float:left;width:770px;"></td>
+					</tr>
+				  </table>
+				  <span><input type="submit" class="denglu one" value="提交"/></span>
+				  	  <h2><input type="submit" value="附件" style="margin-left:50px;"></h2>
+			</form>
+		</div>
+	</div>
+	<!--尾部-->
+    <include file="./Application/Home/View/Public/footer.html"/>
+</body>
+</html>

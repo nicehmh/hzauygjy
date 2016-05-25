@@ -1,0 +1,36 @@
+.view_content{
+	height:450px;
+	
+}
+/*---------- Index/photo   ---------------*/
+.photo_img{
+	height:200px;
+	width:200px;
+	background-color: yellow;
+	float: left;
+	margin-left: 30px;
+}
+.photo_img img{
+	height:200px;
+	width:200px;
+}
+.photo_upload{
+	clear:both;
+	height: 50px;
+	width: 50px;
+	position: relative;
+	top: 40%;
+	left: 85%;
+}
+/*---------- people/add  ---------------*/
+.people_add{
+    /*background-color: yellow;*/
+    height: 400px;
+    width: 60%;
+    margin-left:10%;
+    margin-top:50px;
+    font-size: 16px;
+}
+.people_add input{
+	border-radius:8px;
+}

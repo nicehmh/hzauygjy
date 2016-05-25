@@ -1,0 +1,32 @@
+[ 2015-11-29T16:13:51+08:00 ] 127.0.0.1 /Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.048248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009237s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015824s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002912s ]
+
+[ 2015-11-29T16:15:50+08:00 ] 127.0.0.1 /Admin/index.php/Admin/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-11-29T16:16:21+08:00 ] 127.0.0.1 /Admin/index.php/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2015-11-29T16:17:32+08:00 ] 127.0.0.1 /Admin/index.php/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+

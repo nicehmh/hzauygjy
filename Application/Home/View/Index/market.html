@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>阳光家园</title>
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/header2.css">
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/market.css">
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/style.css">
+	<script type="text/javascript" src="__PUBLIC__/Front/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/Front/js/koala.min.1.5.js"></script>
+	<script>
+		$("#demo3").als({
+	visible_items: 4,
+	scrolling_items: 2,
+	orientation: "horizontal",
+	circular: "yes",
+	autoscroll: "yes",
+	interval: 4000
+     });
+	</script>
+</head>
+<body>
+	<!--头部-->
+	<include file="./Application/Home/View/Public/header2.html" />
+	<div id="main">
+	<div class="nav"><p>首页>>阳光超市</p></div>
+		<div class="content">
+			<div class="top">
+				<h3>日常工作</h3>
+				{$arr.day}
+			</div>
+			<div class="center"></div>
+			<div class="middle">
+				<h3>特色活动</h3>
+				{$arr.act}
+				</div>
+			<div class="center"></div>
+
+<!--<div class="als-container" id="demo3">
+  <span class="als-prev"><img src="__PUBLIC__/Front/images/index1.jpg" alt="prev" title="previous" /></span>
+  <div class="als-viewport">
+    <ul class="als-wrapper">
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x1.png" alt="orange" title="orange" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x2.png" alt="apple" title="apple" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x3.png" alt="banana" title="banana" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x4.png" alt="blueberry" title="blueberry" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x5.png" alt="watermelon" title="watermelon" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x6.jpg" alt="cherry" title="cherry" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x7.jpg" alt="strawberry" title="strawberry" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x8.jpg" alt="avocado" title="avocado" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x9.jpg" alt="pear" title="pear" /></li>
+      <li class="als-item"><img src="__PUBLIC__/Front/images/x10.png" alt="pineapple" title="pineapple" /></li>
+    </ul>
+  </div>
+  <span class="als-next"><img src="images/thin_right_arrow_333.png" alt="next" title="next" /></span>
+</div>-->
+
+
+		</div>
+	</div>
+	<!--尾部-->
+    <include file="./Application/Home/View/Public/footer.html"/>
+</body>
+</html>

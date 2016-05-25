@@ -1,0 +1,2308 @@
+[ 2016-05-22T14:04:58+08:00 ] ::1 /hzauygjy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.139446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.067993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.068614s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000513s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.794025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.796615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.138742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.139282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.100173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.106070s ]
+
+[ 2016-05-22T14:07:31+08:00 ] ::1 /hzauygjy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000531s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000894s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.133164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.085016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.085406s ]
+
+[ 2016-05-22T14:08:11+08:00 ] ::1 /hzauygjy/index.php/admin/News/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002961s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000378s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000927s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.139561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001960s ]
+
+[ 2016-05-22T14:08:27+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005347s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002315s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003053s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:2.972788s ]
+INFO: [ view_parse ] --END-- [ RunTime:2.983172s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003335s ]
+
+[ 2016-05-22T14:21:24+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007480s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000361s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000980s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047121s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.063841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004265s ]
+
+[ 2016-05-22T14:24:15+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008116s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000266s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000657s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001853s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002264s ]
+
+[ 2016-05-22T14:25:00+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003655s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000411s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001970s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005614s ]
+
+[ 2016-05-22T14:25:20+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003861s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000355s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000808s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003909s ]
+
+[ 2016-05-22T14:25:45+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000361s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000838s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032341s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003337s ]
+
+[ 2016-05-22T14:27:41+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002202s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000257s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001996s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002171s ]
+
+[ 2016-05-22T14:29:22+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006650s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000304s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000766s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039792s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040712s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003311s ]
+
+[ 2016-05-22T14:29:52+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002971s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000316s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000938s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015581s ]
+
+[ 2016-05-22T14:38:01+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000234s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000557s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001868s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002426s ]
+
+[ 2016-05-22T14:41:25+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000257s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000565s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020186s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002745s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002511s ]
+
+[ 2016-05-22T14:43:07+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003668s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000281s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000657s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001949s ]
+
+[ 2016-05-22T14:43:22+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001821s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000538s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001904s ]
+
+[ 2016-05-22T14:45:07+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002831s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003717s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004573s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002292s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006912s ]
+
+[ 2016-05-22T14:45:09+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002569s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000264s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000844s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044550s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001658s ]
+
+[ 2016-05-22T14:45:35+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006569s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000368s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001019s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003124s ]
+
+[ 2016-05-22T14:45:48+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002416s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000383s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000982s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002228s ]
+
+[ 2016-05-22T14:47:38+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004354s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000213s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000512s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001974s ]
+
+[ 2016-05-22T14:47:38+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000554s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018086s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001344s ]
+
+[ 2016-05-22T14:47:39+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005176s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000233s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000768s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005313s ]
+
+[ 2016-05-22T14:47:39+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002399s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001478s ]
+
+[ 2016-05-22T14:48:10+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000309s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000792s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050420s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003391s ]
+
+[ 2016-05-22T14:48:35+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003329s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000518s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002485s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006921s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002872s ]
+
+[ 2016-05-22T14:49:14+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001885s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000526s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021650s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001777s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003329s ]
+
+[ 2016-05-22T14:49:29+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000308s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000697s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001621s ]
+
+[ 2016-05-22T14:49:39+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002731s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001501s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004635s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004140s ]
+
+[ 2016-05-22T14:50:13+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003856s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000311s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002749s ]
+
+[ 2016-05-22T14:50:23+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000390s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.016441s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003936s ]
+
+[ 2016-05-22T14:52:06+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000559s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002803s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000311s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000835s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001664s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002673s ]
+
+[ 2016-05-22T14:52:14+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001968s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026827s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002881s ]
+
+[ 2016-05-22T14:52:22+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001971s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000547s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003314s ]
+
+[ 2016-05-22T14:52:42+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006081s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000378s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001091s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003635s ]
+
+[ 2016-05-22T14:58:16+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000217s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004872s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000599s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001266s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004104s ]
+
+[ 2016-05-22T15:06:17+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000507s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001828s ]
+
+[ 2016-05-22T15:06:41+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001975s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004768s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000242s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001297s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025596s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003457s ]
+
+[ 2016-05-22T15:07:47+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003619s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000326s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034309s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017948s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003206s ]
+
+[ 2016-05-22T15:07:49+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002715s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000379s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000951s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004899s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002203s ]
+
+[ 2016-05-22T15:08:17+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002551s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000319s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000780s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002831s ]
+
+[ 2016-05-22T15:10:27+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017376s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000305s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000703s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001843s ]
+
+[ 2016-05-22T15:10:32+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003698s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000408s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001016s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002911s ]
+
+[ 2016-05-22T15:10:34+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004422s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000350s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001747s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004191s ]
+
+[ 2016-05-22T15:10:36+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002096s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000569s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000986s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002439s ]
+
+[ 2016-05-22T15:15:12+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004842s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000524s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001706s ]
+
+[ 2016-05-22T15:43:24+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000349s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000854s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034253s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002221s ]
+
+[ 2016-05-22T15:43:26+08:00 ] ::1 /hzauygjy/index.php/admin/News/view.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.104899s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.000651s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000353s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.105155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2016-05-22T15:43:28+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003982s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002110s ]
+
+[ 2016-05-22T15:43:56+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003728s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000388s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002596s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003412s ]
+
+[ 2016-05-22T15:43:58+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000414s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000858s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002176s ]
+
+[ 2016-05-22T15:45:52+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005403s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000394s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000996s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002691s ]
+
+[ 2016-05-22T15:46:08+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002596s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000457s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001081s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003826s ]
+
+[ 2016-05-22T15:46:10+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002782s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000383s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000756s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003964s ]
+
+[ 2016-05-22T15:46:11+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002761s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000335s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034566s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035028s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002602s ]
+
+[ 2016-05-22T15:46:12+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002260s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000484s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000968s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006795s ]
+
+[ 2016-05-22T15:47:16+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000253s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000612s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002162s ]
+
+[ 2016-05-22T15:47:38+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002963s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000433s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124363s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002049s ]
+
+[ 2016-05-22T15:50:28+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005933s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000316s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000766s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004178s ]
+
+[ 2016-05-22T15:51:06+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003404s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000496s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001026s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043916s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002840s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005792s ]
+
+[ 2016-05-22T15:52:56+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003168s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000317s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001213s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004494s ]
+
+[ 2016-05-22T15:53:09+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003674s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000318s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000785s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001849s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003172s ]
+
+[ 2016-05-22T15:55:18+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001702s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017866s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001652s ]
+
+[ 2016-05-22T15:55:38+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001815s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000665s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022659s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002009s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002404s ]
+
+[ 2016-05-22T15:56:35+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002194s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000271s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000885s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002293s ]
+
+[ 2016-05-22T15:59:33+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005931s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000280s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001935s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 130 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.256917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.258438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004722s ]
+
+[ 2016-05-22T16:00:10+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000357s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000809s ]
+NOTIC: [8] Undefined variable: arr E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 130 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007837s ]
+
+[ 2016-05-22T16:08:07+08:00 ] ::1 /hzauygjy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000190s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023501s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000280s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000616s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098792s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010196s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010625s ]
+
+[ 2016-05-22T16:19:08+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016406s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.216549s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000971s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001865s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002702s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124469s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.057816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.058259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.037543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.038362s ]
+
+[ 2016-05-22T16:23:39+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002926s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.089230s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000577s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000272s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000665s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030153s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002329s ]
+
+[ 2016-05-22T16:23:43+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001820s ]
+
+[ 2016-05-22T16:31:12+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002252s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.148817s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000685s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000459s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001772s ]
+
+[ 2016-05-22T16:31:19+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002922s ]
+
+[ 2016-05-22T16:32:43+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000275s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003767s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.137084s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000578s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000620s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001779s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002203s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002588s ]
+
+[ 2016-05-22T16:32:49+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002472s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.025054s ]
+SQL: UPDATE `ygjy_photo` SET `con`='57416eb1aa7b5.jpg',`class`='轮播图片' WHERE ( `pid` = 1 ) [ RunTime:0.036833s ]
+
+[ 2016-05-22T16:32:50+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014329s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.019124s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000273s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000618s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032248s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001942s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002289s ]
+
+[ 2016-05-22T16:32:57+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003012s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001945s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.225058s ]
+SQL: UPDATE `ygjy_photo` SET `con`='57416eb8e7982.jpg',`class`='轮播图片' WHERE ( `pid` = 1 ) [ RunTime:0.080684s ]
+
+[ 2016-05-22T16:32:57+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003421s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.050559s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000549s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000549s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002104s ]
+
+[ 2016-05-22T16:34:02+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002503s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.039460s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000379s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001019s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002144s ]
+
+[ 2016-05-22T16:34:34+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008174s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.062175s ]
+SQL: UPDATE `ygjy_photo` SET `con`='57416f1acc736.jpg',`class`='轮播图片' WHERE ( `pid` = 1 ) [ RunTime:0.039551s ]
+
+[ 2016-05-22T16:34:35+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007693s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.018961s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000618s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000430s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034357s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001999s ]
+
+[ 2016-05-22T16:34:42+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005316s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.074551s ]
+SQL: UPDATE `ygjy_photo` SET `con`='57416f21f2a91.jpg',`class`='轮播图片' WHERE ( `pid` = 1 ) [ RunTime:0.043515s ]
+
+[ 2016-05-22T16:34:42+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.038399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038848s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.026146s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000541s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000464s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001865s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002385s ]
+
+[ 2016-05-22T16:51:10+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003266s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.756716s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000316s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000833s ]
+NOTIC: [8] Undefined variable: vo E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 135 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.457031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.457628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005062s ]
+
+[ 2016-05-22T16:51:26+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023932s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.019611s ]
+SQL: UPDATE `ygjy_photo` SET `con`='5741730dd04f6.jpg',`class`='轮播图片' WHERE ( `pid` = 0 ) [ RunTime:0.000553s ]
+
+[ 2016-05-22T16:51:26+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003166s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.022283s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000632s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000564s ]
+NOTIC: [8] Undefined variable: vo E:\ruanjian\wamp\www\hzauygjy\Application\Runtime\Cache\Admin\e7b0e4b79ac13eecfc940130d5717e58.php 第 135 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046048s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002614s ]
+
+[ 2016-05-22T16:51:37+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009852s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.203804s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.001778s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000388s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003632s ]
+
+[ 2016-05-22T16:51:45+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005486s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.045373s ]
+SQL: UPDATE `ygjy_photo` SET `con`='57417320e45d1.jpg',`class`='轮播图片' WHERE ( `pid` = 1 ) [ RunTime:0.105724s ]
+
+[ 2016-05-22T16:51:45+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002647s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.022442s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000776s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000321s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000672s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002049s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002594s ]
+
+[ 2016-05-22T16:54:35+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004145s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.125808s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000720s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000321s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000764s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032881s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002703s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002930s ]
+
+[ 2016-05-22T16:54:41+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003846s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.053831s ]
+SQL: UPDATE `ygjy_photo` SET `con`='574173d18f107.jpg',`class`='轮播图片' WHERE ( `pid` = 1 ) [ RunTime:0.048756s ]
+
+[ 2016-05-22T16:54:41+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003144s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.021056s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000675s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000552s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003931s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003407s ]
+
+[ 2016-05-22T16:57:12+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002344s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.017335s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000616s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000531s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002572s ]
+
+[ 2016-05-22T16:57:19+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002851s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000541s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.182703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.183026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001589s ]
+
+[ 2016-05-22T16:57:28+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002519s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000563s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027592s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002003s ]
+
+[ 2016-05-22T16:58:04+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003063s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.122871s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000638s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000496s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002184s ]
+
+[ 2016-05-22T16:58:10+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002377s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000475s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002103s ]
+
+[ 2016-05-22T16:59:05+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004855s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.126947s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000837s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000402s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000947s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002563s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004258s ]
+
+[ 2016-05-22T16:59:14+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002016s ]
+
+[ 2016-05-22T17:00:02+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002167s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.017597s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.001050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000317s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000717s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002446s ]
+
+[ 2016-05-22T17:00:11+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000229s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001873s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002332s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000598s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002139s ]
+
+[ 2016-05-22T17:01:26+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005558s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.073160s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.001629s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000741s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001966s ]
+
+[ 2016-05-22T17:01:32+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002724s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+
+[ 2016-05-22T17:01:57+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.035094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.035875s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.105517s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000514s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000897s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010418s ]
+
+[ 2016-05-22T17:02:02+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007236s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+
+[ 2016-05-22T17:04:44+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005886s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.096544s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000643s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000411s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000834s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003088s ]
+
+[ 2016-05-22T17:04:49+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003875s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+
+[ 2016-05-22T17:05:19+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004998s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.234539s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.001097s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000433s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004728s ]
+
+[ 2016-05-22T17:05:24+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003259s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+
+[ 2016-05-22T17:05:51+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002257s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+
+[ 2016-05-22T17:05:54+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003186s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.062166s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000691s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000307s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000718s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005876s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004164s ]
+
+[ 2016-05-22T17:05:59+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005813s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+
+[ 2016-05-22T17:06:08+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003362s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+
+[ 2016-05-22T17:10:28+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016317s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.283477s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.011466s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000315s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000728s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003102s ]
+
+[ 2016-05-22T17:10:34+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000764s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004602s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+
+[ 2016-05-22T17:11:58+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004521s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.204784s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000916s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001707s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002281s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001920s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003304s ]
+
+[ 2016-05-22T17:12:04+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000377s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003863s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.120690s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.000664s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000267s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000707s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003082s ]
+
+[ 2016-05-22T17:12:14+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003684s ]
+NOTIC: [2] finfo_file(): Empty filename or path E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 149 行.
+

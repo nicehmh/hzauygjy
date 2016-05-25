@@ -1,0 +1,48 @@
+<include file="./Application/Admin/View/Public/index.html" />
+<script type="text/javascript">
+    function f1(id){
+	    var r=confirm("您将要替换图片");
+        if (r==true){
+		     
+             document.getElementById("btn_file").click();
+			 
+			 $("#id").val(id);
+        }  
+	}
+	function f2(){
+	    document.getElementById("btn_submit").click();
+	}
+</script>
+<section id="main" class="column">
+	
+		<article class="module width_full">
+		
+			<header><h3>首页图片</h3></header>
+			<form action="__URL__/upload_photo" method="post" enctype="multipart/form-data" >
+			
+				<div class="module_content">
+			        <div class="view_content">
+					   <volist name="list" id="vo">
+					 
+					      
+			              <div class="photo_img"><a href="javascript:f1({$vo.pid});"><img src="__PUBLIC__/upload/{$vo.con}" alt="没有图片" /></a></div>
+                           		             
+					   </volist>
+			     	</div>
+		            <input type="hidden" name="id" value="{$vo.pid}" id="id"/>
+				</div>
+			<footer>
+				 
+			</footer>
+			<input type="file" name="photo" id="btn_file" style="display:none;" onchange="f2();"  /> 
+			 <input type="submit" name="tj" id="btn_submit" style="display:none;" value="提交"/>
+		  </form>
+		</article><!-- end of post new article -->
+	
+		
+		<div class="spacer"></div>
+	</section>
+	
+</body>
+
+</html>

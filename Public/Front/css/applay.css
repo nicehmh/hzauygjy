@@ -1,0 +1,108 @@
+#main{
+	width:100%;
+ 	min-height:730px;
+ 	float:left;
+ 	background:;
+}
+.nav{
+	display:inline-block;
+	margin-left:13%;
+}
+.nav p{
+     color:#999;
+     letter-spacing: 2px;
+     font :15px;
+}
+.content{
+	width:74%;
+	min-width: 1000px;
+ 	min-height:710px;
+ 	margin-left:13%;
+ 	float:left;
+ 	margin-top:10px;
+ 	border-top-left-radius:5px;
+ 	border-top-right-radius:5px;
+ 	background:;
+ 	border:1px solid #EBEBEB;
+ 	box-shadow:4px 4px 4px #ccc;
+}
+.denglu{
+	margin-top:15px;
+	display:inline-block;
+	height:30px;
+	line-height:17px;
+	width:100px;
+	color:white;
+	text-align:center;
+	letter-spacing:4px;
+	border:0px;
+	border-radius:5px;
+	margin-left: 850px;
+
+}
+.one{
+	background: #44b549;
+	margin-top:10px;
+}
+form{
+	margin-top:40px;
+	letter-spacing:2px;
+}
+table{
+	font-size:13px;
+	width:90%;
+	margin-left:5%;
+	border:1px solid #666;
+}
+table tr{
+	text-align:center;
+}
+table tr td{
+	border:1px solid #666;
+	min-width:100px;
+	height:35px;
+}
+table tr td.title{
+	width:346px;
+}
+table tr td.long{
+	width:33%;
+}
+.longtr{
+	height:200px;
+}
+select{
+	letter-spacing:0px;
+	width:100px;
+	height:35px;
+}
+input{
+	padding:7px;
+	
+}
+input.edu{
+	
+}
+textarea{
+	width:99.5%;
+	border:0px;
+	height:200px;
+	padding:2px;
+}
+#preview{
+	width:90px;
+	height:90px;
+	border:1px solid #000;
+	overflow:hidden;
+	display:inline-block;
+}
+#imghead{
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=image);
+}
+#img{
+	width:160px;
+}
+#imghead{
+	width:90px;
+	height:90px;
+}

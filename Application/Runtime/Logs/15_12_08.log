@@ -1,0 +1,841 @@
+[ 2015-12-08T19:06:30+08:00 ] ::1 /Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020698s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\Admin\ThinkPHP\Common\functions.php 第 1108 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002513s ]
+
+[ 2015-12-08T19:06:36+08:00 ] ::1 /Admin/index.php/Admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003472s ]
+
+[ 2015-12-08T19:06:45+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004729s ]
+
+[ 2015-12-08T19:15:38+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001979s ]
+
+[ 2015-12-08T19:17:00+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007445s ]
+
+[ 2015-12-08T19:18:45+08:00 ] ::1 /Admin/index.php/Admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003113s ]
+
+[ 2015-12-08T19:18:52+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002906s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005441s ]
+
+[ 2015-12-08T19:18:57+08:00 ] ::1 /Admin/index.php/Admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002515s ]
+
+[ 2015-12-08T19:19:04+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002430s ]
+
+[ 2015-12-08T19:19:24+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003362s ]
+
+[ 2015-12-08T19:19:26+08:00 ] ::1 /Admin/index.php/Admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002809s ]
+
+[ 2015-12-08T19:19:27+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002909s ]
+
+[ 2015-12-08T19:19:28+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+
+[ 2015-12-08T19:19:40+08:00 ] ::1 /Admin/index.php/Admin/Ceping/class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002669s ]
+
+[ 2015-12-08T19:23:27+08:00 ] ::1 /Admin/index.php/Admin/Ceping/class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005250s ]
+
+[ 2015-12-08T19:23:29+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calss
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 非法操作:calss
+
+[ 2015-12-08T19:40:13+08:00 ] ::1 /Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.108970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.110870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.111348s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\Admin\ThinkPHP\Common\functions.php 第 1108 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.224211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.224677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.085236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.085696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.139194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.139630s ]
+
+[ 2015-12-08T19:40:33+08:00 ] ::1 /Admin/index.php/admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004189s ]
+
+[ 2015-12-08T19:42:09+08:00 ] ::1 /Admin/index.php/admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004452s ]
+
+[ 2015-12-08T19:42:14+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002244s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:43:05+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001942s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:43:06+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001913s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:43:25+08:00 ] ::1 /Admin/index.php/admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002237s ]
+
+[ 2015-12-08T19:43:27+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002256s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:43:58+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002476s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:44:04+08:00 ] ::1 /Admin/index.php/admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007227s ]
+
+[ 2015-12-08T19:44:06+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002342s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:47:22+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026440s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:47:25+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002427s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:48:14+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005632s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:48:31+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006250s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:48:32+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002861s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:48:38+08:00 ] ::1 /Admin/index.php/admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005113s ]
+
+[ 2015-12-08T19:48:40+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006329s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:48:55+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003655s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:48:57+08:00 ] ::1 /Admin/index.php/Admin/Ceping/calsslpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004160s ]
+ERR: 非法操作:calsslpp
+
+[ 2015-12-08T19:49:01+08:00 ] ::1 /Admin/index.php/admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001882s ]
+
+[ 2015-12-08T19:49:02+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002475s ]
+
+[ 2015-12-08T19:49:23+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002502s ]
+
+[ 2015-12-08T19:49:25+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008702s ]
+
+[ 2015-12-08T19:52:06+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005662s ]
+
+[ 2015-12-08T19:52:37+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005187s ]
+
+[ 2015-12-08T19:52:39+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019270s ]
+
+[ 2015-12-08T19:52:42+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001646s ]
+
+[ 2015-12-08T19:53:30+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002287s ]
+
+[ 2015-12-08T19:53:32+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002392s ]
+
+[ 2015-12-08T19:53:34+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001944s ]
+
+[ 2015-12-08T19:53:37+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005109s ]
+
+[ 2015-12-08T19:54:08+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001961s ]
+
+[ 2015-12-08T19:55:09+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005428s ]
+
+[ 2015-12-08T19:55:26+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003539s ]
+
+[ 2015-12-08T19:56:27+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002510s ]
+
+[ 2015-12-08T19:56:44+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002559s ]
+
+[ 2015-12-08T20:00:35+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002382s ]
+
+[ 2015-12-08T20:03:47+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002259s ]
+
+[ 2015-12-08T20:05:35+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005439s ]
+
+[ 2015-12-08T20:05:47+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002149s ]
+
+[ 2015-12-08T20:05:49+08:00 ] ::1 /Admin/index.php/Admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001724s ]
+
+[ 2015-12-08T20:05:51+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002275s ]
+
+[ 2015-12-08T20:05:53+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003749s ]
+
+[ 2015-12-08T20:05:59+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001993s ]
+
+[ 2015-12-08T20:06:01+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004226s ]
+
+[ 2015-12-08T20:08:45+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004741s ]
+
+[ 2015-12-08T20:19:30+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018952s ]
+
+[ 2015-12-08T20:19:37+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001881s ]
+
+[ 2015-12-08T20:19:52+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002387s ]
+
+[ 2015-12-08T20:20:03+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003715s ]
+
+[ 2015-12-08T20:20:17+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004029s ]
+
+[ 2015-12-08T20:20:19+08:00 ] ::1 /Admin/index.php/Admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002775s ]
+
+[ 2015-12-08T20:20:22+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001880s ]
+
+[ 2015-12-08T20:20:26+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000178s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002799s ]
+
+[ 2015-12-08T20:22:38+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000413s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003910s ]
+
+[ 2015-12-08T20:23:34+08:00 ] ::1 /Admin/index.php/Admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002432s ]
+
+[ 2015-12-08T20:23:38+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001877s ]
+
+[ 2015-12-08T20:23:39+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001861s ]
+
+[ 2015-12-08T20:23:43+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001975s ]
+
+[ 2015-12-08T20:26:17+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014351s ]
+
+[ 2015-12-08T20:27:06+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.068233s ]
+
+[ 2015-12-08T20:27:46+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006529s ]
+
+[ 2015-12-08T20:35:10+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009644s ]
+
+[ 2015-12-08T20:35:31+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005584s ]
+
+[ 2015-12-08T20:36:53+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002559s ]
+
+[ 2015-12-08T20:37:50+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002709s ]
+
+[ 2015-12-08T20:41:29+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004711s ]
+
+[ 2015-12-08T20:43:10+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002855s ]
+
+[ 2015-12-08T20:43:13+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002306s ]
+
+[ 2015-12-08T20:46:50+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002519s ]
+
+[ 2015-12-08T20:47:37+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002907s ]
+
+[ 2015-12-08T20:48:07+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002864s ]
+
+[ 2015-12-08T20:48:14+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007460s ]
+
+[ 2015-12-08T20:48:18+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001835s ]
+
+[ 2015-12-08T20:48:49+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004443s ]
+
+[ 2015-12-08T20:48:51+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+
+[ 2015-12-08T20:49:43+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006436s ]
+
+[ 2015-12-08T20:49:45+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001856s ]
+
+[ 2015-12-08T20:51:14+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002546s ]
+
+[ 2015-12-08T20:51:17+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002531s ]
+
+[ 2015-12-08T20:51:22+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002004s ]
+
+[ 2015-12-08T20:53:35+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001808s ]
+
+[ 2015-12-08T20:54:14+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004298s ]
+
+[ 2015-12-08T20:55:04+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002648s ]
+
+[ 2015-12-08T20:55:07+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012128s ]
+
+[ 2015-12-08T20:57:20+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000280s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005328s ]
+
+[ 2015-12-08T20:57:25+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002478s ]
+
+[ 2015-12-08T20:57:29+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004955s ]
+
+[ 2015-12-08T20:57:45+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004129s ]
+
+[ 2015-12-08T20:58:51+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004034s ]
+
+[ 2015-12-08T20:58:51+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001882s ]
+
+[ 2015-12-08T20:58:51+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001852s ]
+
+[ 2015-12-08T20:58:52+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002563s ]
+
+[ 2015-12-08T20:58:52+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004811s ]
+
+[ 2015-12-08T20:58:54+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002599s ]
+
+[ 2015-12-08T20:59:20+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004954s ]
+
+[ 2015-12-08T20:59:39+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007384s ]
+
+[ 2015-12-08T20:59:45+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012790s ]
+
+[ 2015-12-08T21:01:31+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010033s ]
+
+[ 2015-12-08T21:01:31+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012922s ]
+
+[ 2015-12-08T21:01:33+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003052s ]
+
+[ 2015-12-08T21:07:16+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002505s ]
+
+[ 2015-12-08T21:08:37+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005267s ]
+
+[ 2015-12-08T21:08:45+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002321s ]
+
+[ 2015-12-08T21:11:08+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014943s ]
+
+[ 2015-12-08T21:11:12+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005306s ]
+
+[ 2015-12-08T21:11:32+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003643s ]
+
+[ 2015-12-08T21:11:37+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001887s ]
+
+[ 2015-12-08T21:11:39+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002312s ]
+
+[ 2015-12-08T21:13:35+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002207s ]
+
+[ 2015-12-08T21:13:44+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000428s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003625s ]
+
+[ 2015-12-08T21:14:28+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010047s ]
+
+[ 2015-12-08T21:14:52+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008228s ]
+
+[ 2015-12-08T21:15:37+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002328s ]
+
+[ 2015-12-08T21:18:19+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.040102s ]
+
+[ 2015-12-08T21:19:01+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002717s ]
+
+[ 2015-12-08T21:19:09+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007481s ]
+
+[ 2015-12-08T21:20:25+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004866s ]
+
+[ 2015-12-08T21:21:19+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+
+[ 2015-12-08T21:22:24+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005944s ]
+
+[ 2015-12-08T21:22:39+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005230s ]
+
+[ 2015-12-08T21:23:37+08:00 ] ::1 /Admin/index.php/Admin/Ceping/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002169s ]
+
+[ 2015-12-08T21:23:40+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002633s ]
+
+[ 2015-12-08T21:23:55+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010626s ]
+
+[ 2015-12-08T21:24:32+08:00 ] ::1 /Admin/index.php/Admin/Ceping/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002224s ]
+
+[ 2015-12-08T21:24:38+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002364s ]
+
+[ 2015-12-08T21:24:59+08:00 ] ::1 /Admin/index.php/admin/Ceping/content_submitlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001838s ]
+
+[ 2015-12-08T21:25:10+08:00 ] ::1 /Admin/index.php/admin/Ceping/content_submitlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002651s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020047s ]
+
+[ 2015-12-08T21:25:22+08:00 ] ::1 /Admin/index.php/admin/Ceping/content_submitlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005352s ]
+
+[ 2015-12-08T21:25:35+08:00 ] ::1 /Admin/index.php/admin/Ceping/content_submitlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003480s ]
+
+[ 2015-12-08T21:25:56+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002256s ]
+
+[ 2015-12-08T21:25:59+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002253s ]
+
+[ 2015-12-08T21:26:02+08:00 ] ::1 /Admin/index.php/Admin/Ceping/classlpp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002360s ]
+
+[ 2015-12-08T21:26:07+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002373s ]
+
+[ 2015-12-08T21:31:15+08:00 ] ::1 /Admin/index.php/Admin/Ceping/content
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.038497s ]
+
+[ 2015-12-08T21:31:21+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015281s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020377s ]
+
+[ 2015-12-08T21:32:04+08:00 ] ::1 /Admin/index.php/Admin/Ceping/system
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004960s ]
+
+[ 2015-12-08T21:32:08+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004469s ]
+
+[ 2015-12-08T21:32:54+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005429s ]
+
+[ 2015-12-08T21:35:16+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002534s ]
+
+[ 2015-12-08T21:35:27+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003480s ]
+
+[ 2015-12-08T21:35:44+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002509s ]
+
+[ 2015-12-08T21:40:21+08:00 ] ::1 /Admin/index.php/admin/Ceping/system_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003063s ]
+

@@ -1,0 +1,2491 @@
+[ 2016-05-25T13:11:31+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005125s ]
+
+[ 2016-05-25T13:13:16+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005638s ]
+
+[ 2016-05-25T13:28:02+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000171s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002180s ]
+
+[ 2016-05-25T13:28:02+08:00 ] ::1 /hzauygjy/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002279s ]
+
+[ 2016-05-25T13:28:08+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002916s ]
+
+[ 2016-05-25T13:28:08+08:00 ] ::1 /hzauygjy/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2016-05-25T13:30:55+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002175s ]
+
+[ 2016-05-25T13:30:56+08:00 ] ::1 /hzauygjy/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+
+[ 2016-05-25T13:32:55+08:00 ] ::1 /hzauygjy/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001421s ]
+
+[ 2016-05-25T13:34:04+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002227s ]
+
+[ 2016-05-25T13:34:07+08:00 ] ::1 /hzauygjy/index.php/admin/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000219s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005656s ]
+
+[ 2016-05-25T13:34:48+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+
+[ 2016-05-25T13:34:51+08:00 ] ::1 /hzauygjy/index.php/admin/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001296s ]
+
+[ 2016-05-25T13:35:39+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002128s ]
+
+[ 2016-05-25T13:36:13+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+
+[ 2016-05-25T13:36:17+08:00 ] ::1 /hzauygjy/index.php/admin/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002722s ]
+
+[ 2016-05-25T13:37:05+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002323s ]
+
+[ 2016-05-25T13:37:09+08:00 ] ::1 /hzauygjy/index.php/admin/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001978s ]
+
+[ 2016-05-25T13:37:22+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001664s ]
+
+[ 2016-05-25T13:38:27+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001825s ]
+
+[ 2016-05-25T13:39:18+08:00 ] ::1 /hzauygjy/index.php/admin/login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001623s ]
+
+[ 2016-05-25T13:39:40+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003586s ]
+
+[ 2016-05-25T13:39:42+08:00 ] ::1 /hzauygjy/index.php/admin/login/__APP__/index.php/admin/News/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002406s ]
+ERR: 非法操作:__app__
+
+[ 2016-05-25T13:40:30+08:00 ] ::1 /hzauygjy/index.php/admin/login/__APP__/index.php/admin/News/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001880s ]
+
+[ 2016-05-25T13:41:11+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001633s ]
+
+[ 2016-05-25T13:41:11+08:00 ] ::1 /hzauygjy/index.php/admin/news/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+
+[ 2016-05-25T13:41:28+08:00 ] ::1 /hzauygjy/index.php/admin/News/view.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001533s ]
+
+[ 2016-05-25T13:41:31+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001272s ]
+
+[ 2016-05-25T13:41:52+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006226s ]
+
+[ 2016-05-25T13:42:31+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003678s ]
+
+[ 2016-05-25T13:42:32+08:00 ] ::1 /hzauygjy/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002229s ]
+
+[ 2016-05-25T13:42:46+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001960s ]
+
+[ 2016-05-25T13:42:46+08:00 ] ::1 /hzauygjy/index.php/admin/news/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001594s ]
+
+[ 2016-05-25T13:50:15+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+
+[ 2016-05-25T13:50:32+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+
+[ 2016-05-25T13:50:57+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009980s ]
+
+[ 2016-05-25T13:51:27+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001724s ]
+
+[ 2016-05-25T13:51:38+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001466s ]
+
+[ 2016-05-25T13:51:44+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+
+[ 2016-05-25T13:52:10+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001184s ]
+
+[ 2016-05-25T13:52:18+08:00 ] ::1 /hzauygjy/index.php/Home/Index/member.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002662s ]
+
+[ 2016-05-25T13:52:22+08:00 ] ::1 /hzauygjy/index.php/Home/Index/applay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005568s ]
+
+[ 2016-05-25T13:52:25+08:00 ] ::1 /hzauygjy/index.php/Home/Index/relation.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001581s ]
+
+[ 2016-05-25T13:52:29+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+
+[ 2016-05-25T13:52:31+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001413s ]
+
+[ 2016-05-25T13:52:43+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002070s ]
+
+[ 2016-05-25T13:57:49+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+
+[ 2016-05-25T13:58:26+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006474s ]
+
+[ 2016-05-25T13:58:31+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002434s ]
+
+[ 2016-05-25T13:58:43+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006336s ]
+
+[ 2016-05-25T13:58:53+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+
+[ 2016-05-25T13:59:00+08:00 ] ::1 /hzauygjy/index.php/admin/News/view.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002402s ]
+
+[ 2016-05-25T14:05:31+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002026s ]
+
+[ 2016-05-25T14:05:36+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002213s ]
+
+[ 2016-05-25T14:05:47+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+
+[ 2016-05-25T14:05:50+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007841s ]
+
+[ 2016-05-25T14:05:52+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000545s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002955s ]
+
+[ 2016-05-25T14:06:23+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002491s ]
+
+[ 2016-05-25T14:06:26+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+
+[ 2016-05-25T14:08:16+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+
+[ 2016-05-25T14:09:04+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005268s ]
+
+[ 2016-05-25T14:09:09+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+
+[ 2016-05-25T14:09:12+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+
+[ 2016-05-25T14:09:14+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+
+[ 2016-05-25T14:09:19+08:00 ] ::1 /hzauygjy/index.php/Home/Index/member.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+
+[ 2016-05-25T14:11:59+08:00 ] ::1 /hzauygjy/index.php/admin/News/view.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002955s ]
+
+[ 2016-05-25T14:12:16+08:00 ] ::1 /hzauygjy/index.php/admin/News/view.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+
+[ 2016-05-25T14:12:18+08:00 ] ::1 /hzauygjy/index.php/admin/Login/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002287s ]
+
+[ 2016-05-25T14:12:19+08:00 ] ::1 /hzauygjy/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+
+[ 2016-05-25T14:12:26+08:00 ] ::1 /hzauygjy/index.php/admin/News/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+
+[ 2016-05-25T14:12:27+08:00 ] ::1 /hzauygjy/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+
+[ 2016-05-25T14:12:34+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001650s ]
+
+[ 2016-05-25T14:12:35+08:00 ] ::1 /hzauygjy/index.php/admin/news/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002697s ]
+
+[ 2016-05-25T14:13:01+08:00 ] ::1 /hzauygjy/index.php/admin/People/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+
+[ 2016-05-25T14:14:55+08:00 ] ::1 /hzauygjy/index.php/admin/people/record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+
+[ 2016-05-25T14:14:56+08:00 ] ::1 /hzauygjy/index.php/admin/people/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001303s ]
+
+[ 2016-05-25T14:15:09+08:00 ] ::1 /hzauygjy/index.php/admin/People/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003033s ]
+
+[ 2016-05-25T14:15:42+08:00 ] ::1 /hzauygjy/index.php/admin/people/record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+
+[ 2016-05-25T14:15:42+08:00 ] ::1 /hzauygjy/index.php/admin/people/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+
+[ 2016-05-25T14:16:00+08:00 ] ::1 /hzauygjy/index.php/admin/people/delete_link?id=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002395s ]
+
+[ 2016-05-25T14:16:01+08:00 ] ::1 /hzauygjy/index.php/admin/people/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002046s ]
+
+[ 2016-05-25T14:18:51+08:00 ] ::1 /hzauygjy/index.php/Home/Index/member.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003135s ]
+
+[ 2016-05-25T14:19:08+08:00 ] ::1 /hzauygjy/index.php/admin/People/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003118s ]
+
+[ 2016-05-25T14:19:43+08:00 ] ::1 /hzauygjy/index.php/admin/people/record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002574s ]
+
+[ 2016-05-25T14:19:44+08:00 ] ::1 /hzauygjy/index.php/admin/people/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001922s ]
+
+[ 2016-05-25T14:19:49+08:00 ] ::1 /hzauygjy/index.php/admin/People/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001894s ]
+
+[ 2016-05-25T14:20:18+08:00 ] ::1 /hzauygjy/index.php/admin/people/record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+
+[ 2016-05-25T14:20:18+08:00 ] ::1 /hzauygjy/index.php/admin/people/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002337s ]
+
+[ 2016-05-25T14:20:21+08:00 ] ::1 /hzauygjy/index.php/Home/Index/member.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004814s ]
+
+[ 2016-05-25T14:20:46+08:00 ] ::1 /hzauygjy/index.php/Home/Index/member.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+
+[ 2016-05-25T14:21:34+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009402s ]
+
+[ 2016-05-25T14:30:16+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+
+[ 2016-05-25T14:34:12+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002581s ]
+
+[ 2016-05-25T14:34:14+08:00 ] ::1 /hzauygjy/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001885s ]
+
+[ 2016-05-25T14:35:26+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001488s ]
+
+[ 2016-05-25T14:35:30+08:00 ] ::1 /hzauygjy/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+
+[ 2016-05-25T14:35:37+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000407s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005820s ]
+
+[ 2016-05-25T14:36:10+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000190s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003334s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000339s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000906s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.019006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020133s ]
+
+[ 2016-05-25T14:36:42+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002191s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000536s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045853s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003813s ]
+
+[ 2016-05-25T14:36:44+08:00 ] ::1 /hzauygjy/index.php/admin/people/manager.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004854s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_people` [ RunTime:0.054277s ]
+SQL: SELECT * FROM `ygjy_people`  [ RunTime:0.002351s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000530s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032515s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001962s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007540s ]
+
+[ 2016-05-25T15:07:41+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009084s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.017834s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001746s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001920s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.002287s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004749s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005442s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.048677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.049430s ]
+
+[ 2016-05-25T15:07:42+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006151s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.019308s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001531s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.005265s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.001745s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000621s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002549s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.113301s ]
+
+[ 2016-05-25T15:08:52+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002514s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.010338s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000969s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000723s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000755s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000305s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000627s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002503s ]
+
+[ 2016-05-25T15:10:04+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002598s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.041063s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.000850s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000255s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000571s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001958s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006459s ]
+
+[ 2016-05-25T15:10:33+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000213s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000448s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002446s ]
+
+[ 2016-05-25T15:11:49+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006320s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.866365s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.000958s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000433s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022252s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000929s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004781s ]
+
+[ 2016-05-25T15:13:08+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004591s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.156572s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.000892s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '特色活动' ) LIMIT 1   [ RunTime:0.000938s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000641s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000975s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004130s ]
+
+[ 2016-05-25T15:14:04+08:00 ] ::1 /hzauygjy/index.php/Home/Index/member.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003238s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_people` [ RunTime:0.094347s ]
+SQL: SELECT * FROM `ygjy_people`  [ RunTime:0.001041s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000488s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003981s ]
+
+[ 2016-05-25T15:15:44+08:00 ] ::1 /hzauygjy/index.php/Home/Index/applay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000429s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005320s ]
+
+[ 2016-05-25T15:17:08+08:00 ] ::1 /hzauygjy/index.php/Home/Index/relation.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000417s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025242s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005061s ]
+
+[ 2016-05-25T15:28:40+08:00 ] ::1 /hzauygjy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017085s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:3.589799s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001744s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001245s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.001173s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000436s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024090s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010114s ]
+
+[ 2016-05-25T15:28:51+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007548s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:3.750537s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.000942s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000255s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000629s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006691s ]
+
+[ 2016-05-25T15:28:52+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001603s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.161771s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.003765s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000798s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002771s ]
+
+[ 2016-05-25T15:31:10+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001604s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:1.055600s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001174s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000841s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.002156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000230s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000495s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003077s ]
+
+[ 2016-05-25T15:31:51+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003141s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.106008s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000704s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000606s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000235s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000533s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039106s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039483s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003075s ]
+
+[ 2016-05-25T15:32:34+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001615s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.172362s ]
+SQL: SELECT * FROM `ygjy_news` WHERE ( `nid` = 0 ) LIMIT 1   [ RunTime:0.001400s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000262s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000607s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001932s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003434s ]
+
+[ 2016-05-25T15:33:31+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003890s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009254s ]
+
+[ 2016-05-25T15:33:33+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006267s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.020886s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.001235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003368s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003030s ]
+
+[ 2016-05-25T15:33:53+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003224s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.044043s ]
+SQL: SELECT * FROM `ygjy_news` WHERE ( `nid` = 0 ) LIMIT 1   [ RunTime:0.000853s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000283s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000626s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007674s ]
+
+[ 2016-05-25T15:36:52+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001720s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.023146s ]
+SQL: SELECT * FROM `ygjy_news` WHERE ( `nid` = 0 ) LIMIT 1   [ RunTime:0.001039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000265s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000620s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029122s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003053s ]
+
+[ 2016-05-25T15:37:27+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001635s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.024250s ]
+SQL: SELECT * FROM `ygjy_news` WHERE ( `nid` = 0 ) LIMIT 1   [ RunTime:0.003111s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000309s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000715s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004337s ]
+
+[ 2016-05-25T15:45:45+08:00 ] ::1 /hzauygjy/index.php/Home/Index/relation.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000463s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002248s ]
+
+[ 2016-05-25T15:51:07+08:00 ] ::1 /hzauygjy/index.php/Home/Index/applay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002748s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000260s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000797s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002910s ]
+
+[ 2016-05-25T15:51:35+08:00 ] ::1 /hzauygjy/index.php/Home/Index/applay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001987s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003412s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000243s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002538s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:27.976755s ]
+INFO: [ view_parse ] --END-- [ RunTime:27.977207s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002731s ]
+
+[ 2016-05-25T15:51:35+08:00 ] ::1 /hzauygjy/index.php/Home/Index/applay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003070s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000380s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000905s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002904s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003412s ]
+
+[ 2016-05-25T15:51:36+08:00 ] ::1 /hzauygjy/index.php/Home/Index/applay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001981s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000372s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000844s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003244s ]
+
+[ 2016-05-25T15:51:36+08:00 ] ::1 /hzauygjy/index.php/Home/Index/applay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000263s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000622s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002160s ]
+
+[ 2016-05-25T15:51:37+08:00 ] ::1 /hzauygjy/index.php/Home/Index/applay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001647s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000452s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001590s ]
+
+[ 2016-05-25T15:52:09+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001719s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.672452s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.001205s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '特色活动' ) LIMIT 1   [ RunTime:0.001866s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000240s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000571s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010259s ]
+
+[ 2016-05-25T15:52:13+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002328s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.380730s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.000679s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '特色活动' ) LIMIT 1   [ RunTime:0.000641s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000525s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002714s ]
+
+[ 2016-05-25T15:54:12+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005786s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.155538s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.000850s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000307s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000665s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026827s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001794s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002047s ]
+
+[ 2016-05-25T15:54:21+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002857s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.208661s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.003936s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000432s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005800s ]
+
+[ 2016-05-25T15:56:47+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001684s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.088051s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001295s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001302s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.001190s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000429s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003545s ]
+
+[ 2016-05-25T15:56:59+08:00 ] ::1 /hzauygjy/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001845s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024232s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011529s ]
+
+[ 2016-05-25T15:57:09+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003670s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_administrator` [ RunTime:0.066849s ]
+SQL: SELECT * FROM `ygjy_administrator` WHERE ( `user` = 'admin' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001116s ]
+
+[ 2016-05-25T15:57:09+08:00 ] ::1 /hzauygjy/index.php/admin/news/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002965s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000426s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001788s ]
+
+[ 2016-05-25T15:57:33+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004625s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.013729s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000692s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000622s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000628s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000420s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005571s ]
+
+[ 2016-05-25T15:57:41+08:00 ] ::1 /hzauygjy/index.php/admin/Index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003736s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.016282s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000539s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002863s ]
+
+[ 2016-05-25T15:57:50+08:00 ] ::1 /hzauygjy/index.php/admin/index/lnkh_record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001967s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.104049s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001199s ]
+SQL: UPDATE `ygjy_photo` SET `class`='口号理念',`con`='&lt;p&gt;《阳光家园》一直秉承“为拥有爱心的师生搭建互助平台，为贫困学生、困难家庭和空巢老人提供帮助”的宗旨，以构建和谐校园、和谐师生关系为指导思想。其理念是：让关爱成为一种习惯并影响你身边的每个人。口号是：帮助他人，快乐自己。kkkk&lt;br/&gt;&lt;/p&gt;' WHERE ( `pid` = 4 ) [ RunTime:0.120431s ]
+
+[ 2016-05-25T15:57:50+08:00 ] ::1 /hzauygjy/index.php/admin/index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002600s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.016103s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001114s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000425s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001979s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004029s ]
+
+[ 2016-05-25T15:57:58+08:00 ] ::1 /hzauygjy/index.php/admin/Index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.112039s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.001307s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001812s ]
+
+[ 2016-05-25T15:58:07+08:00 ] ::1 /hzauygjy/index.php/admin/index/upload_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004422s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Upload.class.php 第 167 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.173721s ]
+SQL: UPDATE `ygjy_photo` SET `con`='57455b0ebb023.jpg',`class`='轮播图片' WHERE ( `pid` = 1 ) [ RunTime:0.130152s ]
+
+[ 2016-05-25T15:58:07+08:00 ] ::1 /hzauygjy/index.php/admin/index/photo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010957s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.026677s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '轮播图片' )  [ RunTime:0.001673s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000252s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000577s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003017s ]
+
+[ 2016-05-25T15:58:21+08:00 ] ::1 /hzauygjy/index.php/admin/Index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002498s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.064929s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001371s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000343s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000883s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024192s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001896s ]
+
+[ 2016-05-25T15:58:27+08:00 ] ::1 /hzauygjy/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002169s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000462s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017185s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004163s ]
+
+[ 2016-05-25T15:58:51+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003149s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_administrator` [ RunTime:0.016643s ]
+SQL: SELECT * FROM `ygjy_administrator` WHERE ( `user` = 'admin' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.011654s ]
+
+[ 2016-05-25T15:58:52+08:00 ] ::1 /hzauygjy/index.php/admin/news/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001806s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001645s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000421s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022706s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001803s ]
+
+[ 2016-05-25T15:59:00+08:00 ] ::1 /hzauygjy/index.php/admin/Index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002031s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.034347s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.002167s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000430s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020542s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001696s ]
+
+[ 2016-05-25T15:59:08+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001846s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.124664s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001734s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001125s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.001182s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000432s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004540s ]
+
+[ 2016-05-25T15:59:36+08:00 ] ::1 /hzauygjy/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002275s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000477s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002211s ]
+
+[ 2016-05-25T15:59:45+08:00 ] ::1 /hzauygjy/index.php/admin/login/do_login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003335s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_administrator` [ RunTime:0.054695s ]
+SQL: SELECT * FROM `ygjy_administrator` WHERE ( `user` = 'admin' ) AND ( `password` = '123456' ) LIMIT 1   [ RunTime:0.001093s ]
+
+[ 2016-05-25T15:59:46+08:00 ] ::1 /hzauygjy/index.php/admin/news/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001815s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000528s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000880s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001745s ]
+
+[ 2016-05-25T15:59:49+08:00 ] ::1 /hzauygjy/index.php/admin/Index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001707s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.057271s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001093s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000539s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022947s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001827s ]
+
+[ 2016-05-25T16:01:43+08:00 ] ::1 /hzauygjy/index.php/admin/index/lnkh_record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016132s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:2.229930s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000890s ]
+SQL: UPDATE `ygjy_photo` SET `class`='口号理念',`con`='&lt;p&gt;&lt;span style=&quot;font-family: 黑体,SimHei; font-size: 24px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;《阳光家园》一直秉承“为拥有爱心的师生搭建互助平台，为贫困学生、困难家庭和空巢老人提供帮助”的宗旨，以构建和谐校园、和谐师生关系为指导思想。其理念是：让关爱成为一种习惯并影响你身边的每个人。口号是：帮助他人，快乐自己。kkkk&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;' WHERE ( `pid` = 4 ) [ RunTime:0.129954s ]
+
+[ 2016-05-25T16:01:44+08:00 ] ::1 /hzauygjy/index.php/admin/index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003041s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.311802s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000830s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000405s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018300s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018701s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2016-05-25T16:02:05+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:7.669900s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001284s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001295s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000832s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000311s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000632s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003803s ]
+
+[ 2016-05-25T16:03:02+08:00 ] ::1 /hzauygjy/index.php/admin/Index/renwu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.097941s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000939s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000409s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002182s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002503s ]
+
+[ 2016-05-25T16:03:17+08:00 ] ::1 /hzauygjy/index.php/admin/index/renwu_record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.098484s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000842s ]
+SQL: UPDATE `ygjy_photo` SET `class`='任务',`con`='&lt;ul class=&quot;indexul list-paddingleft-2&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;1、募集物品和资金，帮扶和资助困难学生和家庭；&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;2、搭建困难职工与大学生互助互爱的桥梁；&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;3、对在校师生开展心理健康咨询和指导。&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;' WHERE ( `pid` = 8 ) [ RunTime:0.071987s ]
+
+[ 2016-05-25T16:03:17+08:00 ] ::1 /hzauygjy/index.php/admin/index/renwu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.036571s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000917s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000411s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002788s ]
+
+[ 2016-05-25T16:03:22+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002439s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.086633s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000680s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000599s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000599s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000264s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000587s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007190s ]
+
+[ 2016-05-25T16:03:43+08:00 ] ::1 /hzauygjy/index.php/admin/News/view.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.131408s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.001788s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000474s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002443s ]
+
+[ 2016-05-25T16:03:46+08:00 ] ::1 /hzauygjy/index.php/admin/news/updatenew?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004092s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.331160s ]
+SQL: SELECT * FROM `ygjy_news` WHERE ( `nid` = 2 ) LIMIT 1   [ RunTime:0.002643s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000453s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001614s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004542s ]
+
+[ 2016-05-25T16:04:48+08:00 ] ::1 /hzauygjy/index.php/admin/Index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004966s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.066611s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001106s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000463s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020793s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002753s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001935s ]
+
+[ 2016-05-25T16:05:00+08:00 ] ::1 /hzauygjy/index.php/admin/index/lnkh_record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002228s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.099084s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001110s ]
+SQL: UPDATE `ygjy_photo` SET `class`='口号理念',`con`='&lt;p&gt;&lt;span style=&quot;font-family: 黑体,SimHei; font-size: 24px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;《阳光家园》一直秉承“为拥有爱心的师生搭建互助平台，为贫困学生、困难家庭和空巢老人提供帮助”的宗旨，以构建和谐校园、和谐师生关系为指导思想。其理念是：让关爱成为一种习惯并影响你身边的每个人。口号是：帮助他人，快乐自己。&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;' WHERE ( `pid` = 4 ) [ RunTime:0.090630s ]
+
+[ 2016-05-25T16:05:00+08:00 ] ::1 /hzauygjy/index.php/admin/index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001557s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.031322s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000979s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000407s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2016-05-25T16:05:05+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002452s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.030243s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001049s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000959s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000968s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000281s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000632s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007819s ]
+
+[ 2016-05-25T16:05:32+08:00 ] ::1 /hzauygjy/index.php/admin/Index/gain.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000283s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002956s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.108386s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001445s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000472s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028575s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001745s ]
+
+[ 2016-05-25T16:05:43+08:00 ] ::1 /hzauygjy/index.php/admin/index/gain_record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002088s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.069002s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001163s ]
+SQL: UPDATE `ygjy_photo` SET `class`='成果',`con`='&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;《阳光家园》积极开展各类募集及资助项目，与校内外爱心社团组织开展多项活动，并不断探索新的项目渠道和合作方式。 3年来，共募集物品 14908 \r\n件，资助在校困难群体5023 \r\n件。我们多次组织向贫困地区和灾区的捐赠活动，分别向湖北、贵州等地小学捐赠衣物和学习用品，向青海、四川甘 &amp;nbsp; &amp;nbsp;&lt;/span&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;' WHERE ( `pid` = 5 ) [ RunTime:0.155648s ]
+
+[ 2016-05-25T16:05:43+08:00 ] ::1 /hzauygjy/index.php/admin/index/gain.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002116s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.029342s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000837s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000409s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001899s ]
+
+[ 2016-05-25T16:05:47+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002222s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.077420s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000856s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001153s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000908s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000431s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006522s ]
+
+[ 2016-05-25T16:06:32+08:00 ] ::1 /hzauygjy/index.php/admin/Index/lnkh.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002726s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.084897s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001232s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000466s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002161s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002484s ]
+
+[ 2016-05-25T16:06:38+08:00 ] ::1 /hzauygjy/index.php/admin/Index/renwu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001870s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.101183s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000877s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000581s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025732s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001568s ]
+
+[ 2016-05-25T16:07:06+08:00 ] ::1 /hzauygjy/index.php/admin/Index/gain.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002157s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.034064s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.001349s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000414s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020933s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2016-05-25T16:07:09+08:00 ] ::1 /hzauygjy/index.php/admin/Index/day.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002777s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.117843s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.005911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000848s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001383s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001566s ]
+
+[ 2016-05-25T16:07:26+08:00 ] ::1 /hzauygjy/index.php/admin/index/day_record
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004428s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.020028s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.001357s ]
+SQL: UPDATE `ygjy_photo` SET `class`='日常活动',`con`='&lt;p&gt;阳光超市在相当低廉的价格、只接受捐赠的情况下，纯利润达到7000余元，全部上交湖北省慈善总会，作为华农爱心基金的一部分，将定向用于对华农困难群\r\n体的资助。2.在华农，阳光超市已经取得了比较广泛的影响，初步建立了大家捐赠物品的平台，真正成为大家奉献爱心、接受爱心的爱心中转站，并开始发挥其作\r\n为公益组织的扶贫济困救弱的效应。&lt;br/&gt;&lt;/p&gt;' WHERE ( `pid` = 10 ) [ RunTime:0.106605s ]
+
+[ 2016-05-25T16:07:26+08:00 ] ::1 /hzauygjy/index.php/admin/index/day.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002272s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.015130s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.000876s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000410s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002572s ]
+
+[ 2016-05-25T16:08:01+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008190s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.072075s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.001277s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '特色活动' ) LIMIT 1   [ RunTime:0.001645s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000460s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007831s ]
+
+[ 2016-05-25T16:10:53+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001779s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:1.762832s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.000708s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002865s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003211s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027890s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010711s ]
+
+[ 2016-05-25T16:11:02+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002913s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:1.235278s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.001321s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000417s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024582s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001231s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002195s ]
+
+[ 2016-05-25T16:11:14+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:5.141953s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000932s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000944s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.000606s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001533s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001678s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002132s ]
+
+[ 2016-05-25T16:11:15+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002471s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.754911s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.000653s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000540s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002184s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002510s ]
+
+[ 2016-05-25T16:11:33+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007608s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:1.296287s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.000890s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000839s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.003529s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000258s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000568s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009451s ]
+
+[ 2016-05-25T16:12:21+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004239s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.256294s ]
+SQL: SELECT * FROM `ygjy_news` WHERE ( `nid` = 0 ) LIMIT 1   [ RunTime:0.000980s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000447s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025340s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001775s ]
+
+[ 2016-05-25T16:12:22+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002729s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.138965s ]
+SQL: SELECT * FROM `ygjy_news` WHERE ( `nid` = 0 ) LIMIT 1   [ RunTime:0.000898s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000275s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000618s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023038s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003384s ]
+
+[ 2016-05-25T16:13:14+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002021s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.076533s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.001240s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '特色活动' ) LIMIT 1   [ RunTime:0.001404s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000234s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000543s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006725s ]
+
+[ 2016-05-25T16:13:46+08:00 ] ::1 /hzauygjy/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001992s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.103867s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '口号理念' ) LIMIT 1   [ RunTime:0.001292s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '成果' ) LIMIT 1   [ RunTime:0.000871s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '任务' ) LIMIT 1   [ RunTime:0.001535s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000254s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000562s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002490s ]
+
+[ 2016-05-25T16:15:36+08:00 ] ::1 /hzauygjy/index.php/Home/Index/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_news` [ RunTime:0.166091s ]
+SQL: SELECT * FROM `ygjy_news`  [ RunTime:0.000875s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000445s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020736s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000920s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004340s ]
+
+[ 2016-05-25T16:15:38+08:00 ] ::1 /hzauygjy/index.php/Home/Index/heart.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000481s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028278s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003255s ]
+
+[ 2016-05-25T16:15:41+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002171s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.090016s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.001257s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '特色活动' ) LIMIT 1   [ RunTime:0.004968s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000521s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008997s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003772s ]
+
+[ 2016-05-25T17:58:21+08:00 ] ::1 /hzauygjy/index.php/Home/Index/market.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\ruanjian\wamp\www\hzauygjy\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `ygjy_photo` [ RunTime:0.427138s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '日常活动' ) LIMIT 1   [ RunTime:0.000820s ]
+SQL: SELECT * FROM `ygjy_photo` WHERE ( `class` = '特色活动' ) LIMIT 1   [ RunTime:0.007211s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000503s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002264s ]
+

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>阳光家园</title>
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/header.css">
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/member.css">
+	<link rel="stylesheet" href="__PUBLIC__/Front/css/style.css">
+</head>
+<body>
+	<!--头部-->
+	<include file="./Application/Home/View/Public/header.html" />
+	<div id="main">
+	<div class="nav"><p>首页>>成员介绍</p></div>
+		<div class="content">
+			<tr>
+			   <volist name="arr" id="vo">
+				<td>
+					<div class="member_pt">
+						<img src="__PUBLIC__/upload/{$vo.img}">
+						<div class="member_p">
+						<p>{$vo.name}<br>{$vo.job}<br>{$vo.tel}</p>
+						</div>
+					</div>
+				</td>
+				</volist>
+			</tr>
+		</div>
+	</div>
+	<!--尾部-->
+    <include file="./Application/Home/View/Public/footer.html"/>
+</body>
+</html>
